@@ -4,4 +4,4 @@ This is test 2 with an image.
 
 This is an edit adding more details..
 
-This is another edit, and I hope it's automatically pushed to GitHub!
+This is another edit, and I hope it's automatically pushed to GitHub! Another update from github!
